@@ -1,0 +1,32 @@
+{
+  "name": "project_3",
+  "version": "1.0.0",
+  "description": "REST API",
+  "main": "REST_api.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/full-stack-course/project_3.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "MongoDB",
+    "Express"
+  ],
+  "author": "Emilia Juvonen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/full-stack-course/project_3/issues"
+  },
+  "homepage": "https://github.com/full-stack-course/project_3#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.2",
+    "node": "^17.7.2",
+    "nodemon": "^2.0.16"
+  }
+}
